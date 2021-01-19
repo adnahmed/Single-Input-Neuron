@@ -25,7 +25,7 @@ def main():
     parser.add_argument('--b',type=int, default=1.0-random(),metavar="Bias",
                         help="Initial Bias for Neuron")
     parser.add_argument('--a',type=str, default="hardlim",metavar="Transfer_Func",
-                        help="Transfer function used for Neuron", choices = ["hardlim","purelin"])
+                        help="Transfer function used for Neuron", choices = ["hardlim","purelin","logsig"])
     args = parser.parse_args()
     
     transfer_functions = {
