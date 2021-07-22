@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Adnan Ahmed Khan - [@another__programmer](https://twitter.com/another__programmer) - mailtoadnan.ahmed@gmail.com
+Adnan Ahmed Khan - [@adnaahm](https://twitter.com/adnaahm) - mailtoadnan.ahmed@gmail.com
 
 Project Link: [https://github.com/adnan-repo/Single-Input-Neuron](https://github.com/adnan-repo/Single-Input-Neuron)
 
